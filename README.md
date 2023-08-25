@@ -5,6 +5,7 @@
 
 - <https://github.com/aws/aws-sdk-php-laravel/pull/234>
 - <https://github.com/sebastianbergmann/php-timer/pull/40>
+- <https://github.com/microsoft/tolerant-php-parser/pull/404>
 
 ## Blog Post
 
